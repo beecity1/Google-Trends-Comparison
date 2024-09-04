@@ -1,6 +1,7 @@
 # Google-Trends-Comparison
 Tool to compare google search trends to identify popularity within brands,products or anything useful for marketting.
 
+https://github.com/user-attachments/assets/b0d56093-031e-4272-8cc1-31122c80500d
 
 What You Can Do with This Tool:
 Input Search Terms:
@@ -23,11 +24,6 @@ World Map (Optional):
 
 You can also generate a global map to visualize where a term is most popular worldwide. This is helpful if you want to see geographic interest.
 Generate and Save Reports:
-
-https://github.com/user-attachments/assets/b0d56093-031e-4272-8cc1-31122c80500d
-
-
-
 After comparing terms, you can save the results as an HTML file that opens in your browser. It includes charts, data tables, and summaries for easy viewing or sharing.
 You can also merge multiple HTML files into one report, which is useful if you're comparing many terms across different sessions.
 How You Use It:
